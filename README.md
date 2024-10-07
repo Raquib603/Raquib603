@@ -3,7 +3,7 @@
 <h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher. <br><br>Extended experience in Forex & Stock market analysis</h3>
 
 <!-- Image floated to the right -->
-<div style="float: right; margin-left: 20px;">
+<div style="float: right; margin-left: 70px;">
   <img src="24265.jpg" width="300px">
 </div>
 
