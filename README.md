@@ -2,9 +2,9 @@
 
 <h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher. <br><br>Extended experience in Forex & Stock market analysis</h3>
 
-<!-- Image inside a div aligned to the right -->
-<div style="text-align: right;">
-  <img src="24265.jpg" width="300px" style="margin-left: 20px;">
+<!-- Image floated to the right -->
+<div style="float: right; margin-left: 20px;">
+  <img src="24265.jpg" width="300px">
 </div>
 
 <!-- Profile views badge -->
@@ -13,16 +13,13 @@
 </p>
 
 <!-- Text content -->
-<ul>
+<ul style="clear: both;">
   <li>🔭 -- I’m currently working on <strong>Sentiment Analysis [Researching]</strong></li>
   <li>🌱 -- I’m currently learning <strong>Data Research & Analysis [NLP, Transformer Models]</strong></li>
   <li>👯 -- I’m looking to collaborate on <strong>Forex & Stock Market Analysis</strong></li>
   <li>🤝 -- I’m looking for help with <strong>research in Natural Language Processing (NLP)</strong></li>
   <li>📫 -- How to reach me: <strong>raquib3255@gmail.com</strong></li>
-  <li>⚡-- Fun fact I think, I'm doing good so far</strong></li>
 </ul>
-
-
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
