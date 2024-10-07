@@ -115,7 +115,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raquib603&show_icons=true&locale=en&layout=compact" alt="raquib603" /></p>
 
-<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=raquib603&show_icons=true&locale=en" alt="raquib603" /></p>
 
 
