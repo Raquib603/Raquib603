@@ -9,8 +9,7 @@
 </div>
 
 <!-- Profile views badge in Markdown format -->
-[![Profile Views](https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=YOUR_GITHUB_PROFILE_URL
-)
+
 
 
 
