@@ -2,23 +2,26 @@
 
 <h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher. <br><br>Extended experience in Forex & Stock market analysis</h3>
 
-<p align="right">
-  <img src="24265.jpg" width="300px">
+<!-- Image aligned to the right -->
+<img src="24265.jpg" width="300px" style="float: right; margin-left: 20px;">
+
+<!-- Profile views badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat" alt="raquib603" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat" alt="raquib603" /> </p>
+<!-- Text content without extra gaps -->
+<ul>
+  <li>🔭 -- I’m currently working on <strong>Sentiment Analysis [Researching]</strong></li>
+  <li>🌱 -- I’m currently learning <strong>Data Research & Analysis [NLP, Transformer Models]</strong></li>
+  <li>👯 -- I’m looking to collaborate on <strong>Forex & Stock Market Analysis</strong></li>
+  <li>🤝 -- I’m looking for help with <strong>research in Natural Language Processing (NLP)</strong></li>
+  <li>📫 -- How to reach me: <strong>raquib3255@gmail.com</strong></li>
+  <li>⚡-- Fun fact I think, I'm doing good so far</strong></li>
+</ul>
 
-- 🔭-- I’m currently working on **Sentiment Analysis [Researching]**
 
-- 🌱-- I’m currently learning **Data Research & Analysis [NLP, Transformer Models]**
 
-- 👯-- I’m looking to collaborate on **Forex & Stock Market Analysis**
-
-- 🤝-- I’m looking for help with **research in Natural Language Processing (NLP)**
-
-- 📫-- How to reach me **raquib3255@gmail.com**
-
-- ⚡-- Fun fact **I think, I'm doing good so far**
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
