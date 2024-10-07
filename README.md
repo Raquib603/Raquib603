@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat" alt="raquib603" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raquib603" alt="raquib603" /></a> </p>
-
 - 🔭 I’m currently working on **Sentiment Analysis [Researching]**
 
 - 🌱 I’m currently learning **Sentiment Analysis [NLP, Transformer Models]**
@@ -22,6 +20,7 @@
 <a href="https://twitter.com/atlantascapital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atlantascapital" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-raquib-hassan-a19bba216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-raquib-hassan-a19bba216" height="30" width="40" /></a>
 <a href="https://medium.com/@raquib3255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raquib3255" height="30" width="40" /></a>
+<a href="https://discord.gg/raquib.hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raquib.hassan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
