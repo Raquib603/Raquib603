@@ -3,14 +3,14 @@
 <h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher. <br><br>Extended experience in Forex & Stock market analysis</h3>
 
 <!-- Image aligned to the right -->
-<img src="24265.jpg" width="300px" style="float: right; margin-left: 20px;">
+<img src="24265.jpg" width="300px" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 
 <!-- Profile views badge -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat" alt="raquib603" />
 </p>
 
-<!-- Text content without extra gaps -->
+<!-- Text content -->
 <ul>
   <li>🔭 -- I’m currently working on <strong>Sentiment Analysis [Researching]</strong></li>
   <li>🌱 -- I’m currently learning <strong>Data Research & Analysis [NLP, Transformer Models]</strong></li>
@@ -19,8 +19,6 @@
   <li>📫 -- How to reach me: <strong>raquib3255@gmail.com</strong></li>
   <li>⚡-- Fun fact I think, I'm doing good so far</strong></li>
 </ul>
-
-
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
