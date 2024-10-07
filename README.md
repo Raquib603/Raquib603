@@ -19,7 +19,7 @@
   <li>👯 -- I’m looking to collaborate on <strong>Forex & Stock Market Analysis</strong></li>
   <li>🤝 -- I’m looking for help with <strong>research in Natural Language Processing (NLP)</strong></li>
   <li>📫 -- How to reach me: <strong>raquib3255@gmail.com</strong></li>
-  <li>📫 --         2nd one: **raquib.hassan@northsouth.edu**</li>
+  <li>📫 --         2nd one: raquib.hassan@northsouth.edu</li>
   <li>⚡ -- Fun fact <strong>I think, I'm doing good so far</strong></li>
 </ul>
 
