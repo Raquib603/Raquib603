@@ -8,7 +8,8 @@
 </div>
 
 <!-- Profile views badge -->
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)" alt="raquib603" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <!-- Text content -->
 <ul style="clear: both;">
