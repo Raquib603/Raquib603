@@ -16,6 +16,8 @@
 
 - ⚡-- Fun fact **I think, I'm doing good so far**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atlantascapital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atlantascapital" height="30" width="40" /></a>
@@ -23,6 +25,7 @@
 <a href="https://medium.com/@raquib3255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raquib3255" height="30" width="40" /></a>
 <a href="https://discord.gg/raquib.hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raquib.hassan" height="30" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
