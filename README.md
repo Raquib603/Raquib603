@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat" alt="raquib603" /> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis [Researching]**
+- 🔭-- I’m currently working on **Sentiment Analysis [Researching]**
 
-- 🌱 I’m currently learning **Sentiment Analysis [NLP, Transformer Models]**
+- 🌱-- I’m currently learning **Sentiment Analysis [NLP, Transformer Models]**
 
-- 👯 I’m looking to collaborate on **Forex & Stock Market Analysis**
+- 👯-- I’m looking to collaborate on **Forex & Stock Market Analysis**
 
-- 🤝 I’m looking for help with **Data Research & Analysis**
+- 🤝-- I’m looking for help with **Data Research & Analysis**
 
-- 📫 How to reach me **raquib3255@gmail.com**
+- 📫-- How to reach me **raquib3255@gmail.com**
 
-- ⚡ Fun fact **I think, I'm doing good so far**
+- ⚡-- Fun fact **I think, I'm doing good so far**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
