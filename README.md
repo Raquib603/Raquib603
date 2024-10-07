@@ -10,7 +10,7 @@
 
 - 👯-- I’m looking to collaborate on **Forex & Stock Market Analysis**
 
-- 🤝-- I’m looking for help with **Research on NLP**
+- 🤝-- I’m looking for help with **research in Natural Language Processing (NLP)**
 
 - 📫-- How to reach me **raquib3255@gmail.com**
 
