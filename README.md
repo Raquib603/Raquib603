@@ -19,6 +19,7 @@
   <li>👯 -- I’m looking to collaborate on <strong>Forex & Stock Market Analysis</strong></li>
   <li>🤝 -- I’m looking for help with <strong>research in Natural Language Processing (NLP)</strong></li>
   <li>📫 -- How to reach me: <strong>raquib3255@gmail.com</strong></li>
+  <li>⚡ -- Fun fact <strong>I think, I'm doing good so far</strong></li>
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
