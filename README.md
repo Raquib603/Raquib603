@@ -4,7 +4,7 @@
 
 <!-- Image floated to the right -->
 <div style="float: right; margin-left: 70px;">
-  <img src="24265.jpg" width="300px">
+  <img src="26297.jpg" width="300px">
 </div>
 
 <!-- Profile views badge -->
