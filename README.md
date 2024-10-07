@@ -10,7 +10,7 @@
 
 <!-- Profile views badge in Markdown format -->
 <!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat)
 <!-- README views badge -->
 ![README Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/raquib603/raquib603&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README+Views&edge_flat=false)
 
