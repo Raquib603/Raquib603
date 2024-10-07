@@ -1,14 +1,18 @@
-<h1 align="center">Assalamu Alaikum👋, I'm Raquib</h1><br>
+<h1 align="center">Assalamu Alaikum👋, I'm Raquib</h1>
+<br>
 
-<h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher. <br><br>Extended experience in Forex & Stock market analysis</h3>
+<h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher.<br><br>Extended experience in Forex & Stock market analysis</h3>
 
 <!-- Image floated to the right -->
-<div style="float: right; margin-left: 70px;">
+<div align="right" style="margin-left: 70px;">
   <img src="pi3u_0f8p_210722-removebg-preview.png" width="300px">
 </div>
 
-<!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Profile views badge in Markdown format -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raquib603&label=Profile%20views&color=0e75b6&style=flat" alt="raquib603" />
+</p>
+
 
 
 <!-- Text content -->
