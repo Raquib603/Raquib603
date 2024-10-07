@@ -16,9 +16,6 @@
 
 - ⚡-- Fun fact **I think, I'm doing good so far**
 
-<br>
-<i>A curated list of awesome Github Profile READMEs</i>
-
 <a href="https://github.com/raquib603/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/raquib603/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/raquib603/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/raquib603/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/raquib603/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/raquib603/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
