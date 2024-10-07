@@ -30,7 +30,7 @@
   </a>
   
   <a href="https://twitter.com/atlantascapital">
-    <img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" />
+    <img src="https://img.shields.io/twitter/follow/atlantascapital.svg?style=social" />
   </a>
 </div>
 
