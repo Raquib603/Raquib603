@@ -2,8 +2,10 @@
 
 <h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher. <br><br>Extended experience in Forex & Stock market analysis</h3>
 
-<!-- Image aligned to the right -->
-<img src="24265.jpg" width="300px" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+<!-- Image inside a div aligned to the right -->
+<div style="text-align: right;">
+  <img src="24265.jpg" width="300px" style="margin-left: 20px;">
+</div>
 
 <!-- Profile views badge -->
 <p align="left">
@@ -19,6 +21,7 @@
   <li>📫 -- How to reach me: <strong>raquib3255@gmail.com</strong></li>
   <li>⚡-- Fun fact I think, I'm doing good so far</strong></li>
 </ul>
+
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
