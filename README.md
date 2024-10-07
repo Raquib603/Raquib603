@@ -6,11 +6,11 @@
 
 - 🔭-- I’m currently working on **Sentiment Analysis [Researching]**
 
-- 🌱-- I’m currently learning **Sentiment Analysis [NLP, Transformer Models]**
+- 🌱-- I’m currently learning **Data Research & Analysis [NLP, Transformer Models]**
 
 - 👯-- I’m looking to collaborate on **Forex & Stock Market Analysis**
 
-- 🤝-- I’m looking for help with **Data Research & Analysis**
+- 🤝-- I’m looking for help with **Research on NLP**
 
 - 📫-- How to reach me **raquib3255@gmail.com**
 
