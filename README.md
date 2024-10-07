@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raquib</h1><br>
+<h1 align="center">Assalamu Alaikum 👋, I'm Raquib</h1><br>
 
 <h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  NLP researcher. <br><br>Extended experience in Forex & Stock market analysis</h3>
 
