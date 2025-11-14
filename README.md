@@ -19,7 +19,7 @@
 
 <!-- Text content -->
 <ul style="clear: both;">
-  <li>🔭 -- I’m currently working on <strong>Sentiment Analysis [Researching]</strong></li>
+  <li>🔭 -- I’m currently working on <strong>Financial DCC-GARCH and Transformer based model fusion [Ongoing Research]</strong></li>
   <li>🌱 -- I’m currently learning <strong>Data Research & Analysis [NLP, Transformer Models]</strong></li>
   <li>👯 -- I’m looking to collaborate on <strong>Forex & Stock Market Analysis</strong></li>
   <li>🤝 -- I’m looking for help with <strong>research in Natural Language Processing (NLP)</strong></li>
