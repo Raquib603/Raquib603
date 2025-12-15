@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum👋, I'm Raquib</h1>
 <br>
 
-<h3 align="left">Data Science Enthusiast<br>Data Research & Analyst  ||  Financial Market researcher.<br><br>Extended experience in Forex & Stock market analysis</h3>
+<h3 align="left">Data Research & Analyst | Machine Learning & LLM | Technical Writer.<br><br>Extended experience in Forex & Stock market analysis</h3>
 
 <!-- Image floated to the right -->
 <div align="left" style="margin-left: 70px;">
