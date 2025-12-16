@@ -20,9 +20,9 @@
 <!-- Text content -->
 <ul style="clear: both;">
   <li>🔭 -- I’m currently working on <strong>Financial DCC-GARCH and Transformer based model fusion [Ongoing Research]</strong></li>
-  <li>🌱 -- I’m currently learning <strong>Data Research & Analysis [NLP, Transformer Models]</strong></li>
+  <li>🌱 -- I’m expert in <strong>Data Research & Analysis [NLP, Transformer Models]</strong></li>
   <li>👯 -- I’m looking to collaborate on <strong>Forex & Stock Market Analysis</strong></li>
-  <li>🤝 -- I’m looking for help with <strong>research in Natural Language Processing (NLP)</strong></li>
+  <li>🤝 -- I’m looking partners for <strong>research in Natural Language Processing (NLP)</strong></li>
   <li>📫 -- How to reach me: <a href="mailto:raquib.hassan33@gmail.com"><strong>raquib3255@gmail.com</strong></a></li>
   <li>📫 -- 2nd mail: <a href="mailto:raquib.hassan@northsouth.edu"><strong>raquib.hassan@northsouth.edu</strong></a></li>
   <li>⚡ -- Fun fact <strong>I think, I'm doing good so far</strong></li>
